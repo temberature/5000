@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Mon, 25 Dec 2023 16:56:42 +0800</dateCreated>
+  </head>
+  <body>
+    <outline text="Uncategorized">
+      <outline text="ahrm’s blog" type="rss" xmlUrl="https://ahrm.github.io/feed.xml" htmlUrl="https://ahrm.github.io/" description="Computers, Machine Learning and non-machine learning"/>
+      <outline text="Better Humans - Medium" type="rss" xmlUrl="https://betterhumans.pub/feed" htmlUrl="https://betterhumans.pub/?source=rss----7038e003d060---4" description="Better Humans is one of the largest and oldest Medium’s publications on self-improvement and personal development. Our goal is to bring you the world’s most helpful writing on human potential. - Medium"/>
+      <outline text="BMPI" type="rss" xmlUrl="https://www.bmpi.dev/index.xml" htmlUrl="https://www.bmpi.dev/" description="Recent content on BMPI"/>
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+      <outline text="Miobowl 的书房" type="rss" xmlUrl="https://miobowl.com/rss/feed.xml" htmlUrl="https://miobowl.com/" description="欢迎来到 Miobowl 的书房"/>
+      <outline text="neverland" type="rss" xmlUrl="https://type.cyhsu.xyz/feed.xml" htmlUrl="https://type.cyhsu.xyz/" description="Recent content on neverland"/>
+      <outline text="Paul Graham: Essays" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/" description="Scraped feed provided by aaronsw.com"/>
+      <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Programming in python, JavaScript and Golang."/>
+      <outline text="Sam Altman" type="rss" xmlUrl="https://blog.samaltman.com/posts.atom" htmlUrl="https://blog.samaltman.com/" description=""/>
+      <outline text="Square Signals" type="rss" xmlUrl="https://blog.andymatuschak.org/rss" htmlUrl="https://blog.andymatuschak.org/" description="Tidbits on software, music, food, design, and life."/>
+      <outline text="Stories by Conan Xin on Medium" type="rss" xmlUrl="https://medium.com/@conanxin/feed" htmlUrl="https://medium.com/@conanxin?source=rss-345a0612ffdc------2" description="Stories by Conan Xin on Medium"/>
+      <outline text="TSBBLOG" type="rss" xmlUrl="https://tsb2blog.com/feed/" htmlUrl="https://tsb2blog.com/" description="独立观察及记录"/>
+      <outline text="UNTAG" type="rss" xmlUrl="https://rsshub.app/utgd/timeline" htmlUrl="https://utgd.net/" description="UNTAG - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="Verne in GitHub" type="rss" xmlUrl="https://blog.einverne.info/feed.xml" htmlUrl="https://blog.einverne.info/" description=""/>
+      <outline text="Vim" type="rss" xmlUrl="https://world.hey.com/vim/feed.atom" htmlUrl="https://world.hey.com/vim" description=""/>
+      <outline text="WindilyCloud’s Blog" type="rss" xmlUrl="https://windilycloud.cn/rss.xml" htmlUrl="https://windilycloud.cn/" description="大脸猫皮皮的博客"/>
+      <outline text="刘未鹏 | Mind Hacks" type="rss" xmlUrl="https://mindhacks.cn/feed/" htmlUrl="https://mindhacks.cn/" description="思维改变生活"/>
+      <outline text="吕立青的博客" type="rss" xmlUrl="https://jimmylv.info/pages/atom.xml" htmlUrl="https://blog.jimmylv.info/" description="想做产品，却误入程序世界爱上写作的摄影师。"/>
+      <outline text="少数派用户「叶猛犸」动态更新" type="rss" xmlUrl="https://rsshub.app/sspai/activity/mengma" htmlUrl="https://sspai.com/u/mengma/updates" description="少数派用户「叶猛犸」的动态更新 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="少数派用户「朱近野」动态更新" type="rss" xmlUrl="https://rsshub.app/sspai/activity/zhujinye" htmlUrl="https://sspai.com/u/zhujinye/updates" description="少数派用户「朱近野」的动态更新 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="白板报" type="rss" xmlUrl="https://wangpei.me/atom.xml" htmlUrl="https://wangpei.me/" description=""/>
+      <outline text="知乎专栏-助记媒介 &amp; 思想工具" type="rss" xmlUrl="https://rssh-ub-dun-three.vercel.app/zhihu/zhuanlan/c_1525784109008203776" htmlUrl="https://www.zhihu.com/column/c_1525784109008203776" description="知乎专栏-助记媒介 &amp; 思想工具 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="老赵点滴 - 追求编程之美" type="rss" xmlUrl="http://blog.zhaojie.me/rss" htmlUrl="http://blog.zhaojie.me/" description="先做人，再做技术人员，最后做程序员。打造国内最好的.NET技术博客。"/>
+    </outline>
+  </body>
+</opml>
